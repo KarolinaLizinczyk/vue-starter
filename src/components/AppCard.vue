@@ -9,8 +9,10 @@
 
 <style scoped>
 .card {
-  padding: 1rem;
-  border: 1px solid #e0e0e0;
-  border-radius: 4px;
+  padding: 1.25rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 1px 2px rgba(16, 24, 40, 0.06);
 }
 </style>

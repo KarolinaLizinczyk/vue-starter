@@ -1,14 +1,7 @@
 <script setup lang="ts">
+import HomeView from '@/views/HomeView.vue'
 </script>
 
 <template>
-  <div class="app">
-    <RouterView />
-  </div>
+  <HomeView />
 </template>
-
-<style scoped>
-.app {
-  min-height: 100vh;
-}
-</style>
